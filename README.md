@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bodacom
 - 🌱 I’m currently learning Python
 - 👀 I’m interested in time management tools
-- 💞️ I’m looking to collaboration on texts analysis and translation solutions
+- 💞️ I’m looking for collaboration on text analysis and translation solutions
 - 📫 How to reach me: pischanuk.oik@gmail.com
 
 <!---
